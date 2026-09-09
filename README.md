@@ -18,8 +18,7 @@
 
 ## 原文链接
 
-本文为 Google 发布的公开技术白皮书，原文可从以下链接获取：
-- [Google AI Developer Resources](https://developers.google.com/)
+- [Kaggle: The New SDLC with Vibe Coding](https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding)
 
 ## 翻译说明
 

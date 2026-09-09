@@ -1,5 +1,9 @@
 # The New SDLC with Vibe Coding — 简体中文翻译
 
+## 📖 阅读译文
+
+👉 **[点击查看完整简体中文翻译](Day_1_v3_zh.md)**
+
 ## 文档简介
 
 本仓库包含 Google 技术白皮书 **"The New SDLC with Vibe Coding"** 的简体中文翻译。
